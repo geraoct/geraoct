@@ -9,7 +9,7 @@
 
 - 🛠 Experienced in business analysis, project management, Software testing and web development.
 
-- 📫 How to reach me <span style="color:#F771B9FF;">**malatjimalethabo@gmail.com**</span>
+- 📫 How to reach me <span color="#F771B9FF">**malatjimalethabo@gmail.com**</span>
 
 <h3 align="left">Connect with me:</h3>
 <div>
@@ -46,16 +46,16 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> 
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </p>
-
-
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=geraoct&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=geraoct&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=geraoct&count_private=true&theme=react&border_radius=10&layout=compact" alt="geraoct" />
+
   <br/>
 </div>
 
